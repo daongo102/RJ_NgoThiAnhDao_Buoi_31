@@ -1,9 +1,8 @@
-import ChangeGlass from "./module/state";
-
+import Index from "./module/glass";
 function App() {
     return (
         <>
-            <ChangeGlass />
+            <Index/>
         </>
     );
 }
